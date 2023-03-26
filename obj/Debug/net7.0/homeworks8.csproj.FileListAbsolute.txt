@@ -1,0 +1,15 @@
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\obj\Debug\net7.0\homeworks8.csproj.AssemblyReference.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\obj\Debug\net7.0\homeworks8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\obj\Debug\net7.0\homeworks8.AssemblyInfoInputs.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\obj\Debug\net7.0\homeworks8.AssemblyInfo.cs
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\obj\Debug\net7.0\homeworks8.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\bin\Debug\net7.0\homeworks8.exe
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\bin\Debug\net7.0\homeworks8.deps.json
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\bin\Debug\net7.0\homeworks8.runtimeconfig.json
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\bin\Debug\net7.0\homeworks8.dll
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\bin\Debug\net7.0\homeworks8.pdb
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\obj\Debug\net7.0\homeworks8.dll
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\obj\Debug\net7.0\refint\homeworks8.dll
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\obj\Debug\net7.0\homeworks8.pdb
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\obj\Debug\net7.0\homeworks8.genruntimeconfig.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homeworks8\obj\Debug\net7.0\ref\homeworks8.dll
